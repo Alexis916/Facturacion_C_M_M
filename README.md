@@ -9,7 +9,7 @@ El sistema Facturación_C_M_M que son las siglas de La Caja Mágica del Maquilla
 - Registrar, editar y eliminar clientes
 - Llevar control de ventas
 
-# instalacion
+# Instalación
 1.	Clonar este repositorio: git clone https://github.com/Alexis916/Facturacion_C_M_M.git
 2.	Crear un entorno virtual: python -m venv nombre-del-entorno
 3.	Instalar las dependencias: pip install -r requirements.txt
